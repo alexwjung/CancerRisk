@@ -3,7 +3,7 @@
 ![Schematic](./docs/F1.png)
 
 ## **Paper**
-[medRxiv](https://medRxiv.org/)
+[medRxiv]([https://medRxiv.org/](https://www.medrxiv.org/content/10.1101/2022.10.12.22280908v1))
 
 ## **Description**
 Health care is experiencing a drive towards digitisation and many countries are
@@ -33,7 +33,7 @@ and may help to enable cancer screening in younger age groups.
 
 This directory contains the result and scripts accompanying the paper:
 
-*Population-scale cancer risks derived from clinical registries, family history and basic health data: A retrospective modelling and validation study*
+*Multi-cancer risk stratification based on national health data: A retrospective modelling and validation study*
 
 The analysis is split by the two main cohorts: [Denmark](./main/Denmark) and [UK Biobank](./main/UKB).
 The used scripts and notebooks can be found in the scr.tar.gz files.
