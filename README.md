@@ -3,7 +3,7 @@
 ![Schematic](./docs/F1.png)
 
 ## **Paper**
-[medRxiv](https://medRxiv.org/](https://www.medrxiv.org/content/10.1101/2022.10.12.22280908v1)
+[medRxiv](https://www.medrxiv.org/content/10.1101/2022.10.12.22280908v1)
 
 ## **Description**
 Health care is experiencing a drive towards digitisation and many countries are
@@ -42,9 +42,9 @@ The figures and some of the underlying data can be found in out.tar.gz files.
 An example on how to use the model to predict cancer risk see:
 [Example](./example/cancerrisk.ipynb) - [Colab](https://colab.research.google.com/drive/1q75iFgjojjx1kk8r-MwSLKs9GXzodL4Z?usp=sharinghttps://colab.research.google.com/drive/1q75iFgjojjx1kk8r-MwSLKs9GXzodL4Z?usp=sharing)
 
-### Additional information
+## Additional information
 
-## **Citing**
+### **Citing**
 @article{jung2022multi,
   title={Multi-cancer risk stratification based on national health data: A retrospective modelling and validation study},
   author={Jung, Alexander Wolfgang and Holm, Peter Christoffer and Gaurav, Kumar and Hjaltelin, Jessica Xin and Placido, Davide and Mortensen, Laust Hvas and Birney, Ewan and Brunak, Soren and Gerstung, Moritz},
@@ -53,7 +53,7 @@ An example on how to use the model to predict cancer risk see:
   publisher={Cold Spring Harbor Laboratory Press}
 }
 
-## **License**
+### **License**
 [MIT License](./LICENSE)
 
 ## **Acknowledgement**
