@@ -1,5 +1,4 @@
-# **Multi-cancer risk stratification based on national health data:   
-A retrospective modelling and validation study.**
+# **Multi-cancer risk stratification based on national health data.**
 
 ![Schematic](./docs/F1.png)
 
